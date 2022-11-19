@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\robotic 22\programming\projectiris\build\CMakeFiles\dc9e8e4c92205eef353da708a7d2acbc\RUN_TESTS_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{CAADD39E-1473-332F-841D-5A2212490A8D}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

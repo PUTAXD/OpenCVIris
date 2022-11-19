@@ -1,0 +1,9 @@
+D:/robotic 22/programming/projectiris/build/CMakeFiles/Experimental.dir
+D:/robotic 22/programming/projectiris/build/CMakeFiles/Nightly.dir
+D:/robotic 22/programming/projectiris/build/CMakeFiles/Continuous.dir
+D:/robotic 22/programming/projectiris/build/CMakeFiles/NightlyMemoryCheck.dir
+D:/robotic 22/programming/projectiris/build/CMakeFiles/irisopen.dir
+D:/robotic 22/programming/projectiris/build/CMakeFiles/PACKAGE.dir
+D:/robotic 22/programming/projectiris/build/CMakeFiles/RUN_TESTS.dir
+D:/robotic 22/programming/projectiris/build/CMakeFiles/ALL_BUILD.dir
+D:/robotic 22/programming/projectiris/build/CMakeFiles/ZERO_CHECK.dir

@@ -1,0 +1,10 @@
+^D:\ROBOTIC 22\PROGRAMMING\PROJECTIRIS\BUILD\CMAKEFILES\DC9E8E4C92205EEF353DA708A7D2ACBC\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SD:/robotic 22/programming/projectiris" "-BD:/robotic 22/programming/projectiris/build" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "D:/robotic 22/programming/projectiris/build/irisopen.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
